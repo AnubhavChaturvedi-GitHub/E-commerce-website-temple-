@@ -1,5 +1,7 @@
 # E-commerce Website Template [Demo Link](https://stupendous-tiramisu-a2ec4a.netlify.app/)
 
+![image](https://github.com/user-attachments/assets/ff05f64d-c93f-4106-a2ae-416ddc720755)
+
 ## Description
 
 A full-stack E-commerce Website built using HTML, CSS, Java Servlets, JSP, JDBC, and MySQL. This project includes user authentication, product listings, cart functionality, order processing, and payment integration. 🚀
